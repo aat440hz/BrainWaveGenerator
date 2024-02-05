@@ -4,7 +4,7 @@ This project is a simple, interactive brainwave generator built with HTML, CSS, 
 
 ## Features
 
-- **Adjustable Frequencies**: Users can control two separate frequencies for the left and right audio channels.
+- **Adjustable Frequencies**: Users can control two separate frequencies.
 - **Pulse Rate Control**: Adjust the pulse rate to modulate the sound, creating isochronic tones.
 - **Real-time Oscilloscope Visualization**: Visual feedback of the audio waveform.
 - **Dynamic Frequency Variance**: Periodically introduces slight variations to the frequencies, simulating a more natural and engaging listening experience.
